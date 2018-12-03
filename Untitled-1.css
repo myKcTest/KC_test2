@@ -7,6 +7,7 @@ Error: Invalid CSS after "p": expected selector, was "{"
 3: p{
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 4: 	color:green;
 =======
 4: 	color:blue;
@@ -14,6 +15,9 @@ Error: Invalid CSS after "p": expected selector, was "{"
 =======
 4: 	color:blue;
 >>>>>>> i
+=======
+4: 	color:red;
+>>>>>>> we
 5: }
 
 Backtrace:
