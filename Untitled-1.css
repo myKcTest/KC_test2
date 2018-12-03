@@ -6,7 +6,11 @@ Error: Invalid CSS after "p": expected selector, was "{"
 2: 
 3: p{
 <<<<<<< HEAD
+<<<<<<< HEAD
 4: 	color:green;
+=======
+4: 	color:blue;
+>>>>>>> i
 =======
 4: 	color:blue;
 >>>>>>> i
