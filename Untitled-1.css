@@ -5,7 +5,11 @@ Error: Invalid CSS after "p": expected selector, was "{"
 1: /* Sass Document *\/
 2: 
 3: p{
+<<<<<<< HEAD
 4: 	color:green;
+=======
+4: 	color:blue;
+>>>>>>> i
 5: }
 
 Backtrace:
