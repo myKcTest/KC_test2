@@ -5,7 +5,7 @@ Error: Invalid CSS after "p": expected selector, was "{"
 1: /* Sass Document *\/
 2: 
 3: p{
-4: 	color:red;
+4: 	color:green;
 5: }
 
 Backtrace:
